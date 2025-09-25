@@ -4,6 +4,20 @@ This project explores **Netflix historical stock data** using Python (Pandas, Nu
 It’s a practical exercise in **data cleaning, slicing, filtering, aggregation, and visualization** to uncover insights from stock movements.
 
 ---
+## 🗂 Dataset
+
+The dataset contains Netflix historical stock data with the following key columns:
+
+| Column | Description |
+|--------|-------------|
+| Date   | Trading date |
+| Open   | Opening stock price for the day |
+| High   | Highest stock price during the day |
+| Low    | Lowest stock price during the day |
+| Close  | Closing stock price for the day |
+| Volume | Number of shares traded |
+| ticker | Stock ticker symbol (e.g., NFLX) |
+| name   | Company name (Netflix) |
 
 ## 📊 What I Did in the Notebook
 Here’s the full breakdown of the steps I worked on:
